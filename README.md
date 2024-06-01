@@ -3,7 +3,7 @@
 The project decomposes daily and yearly climate data of Germany based on 1990-2021 data. 
 
 ## Table of contents
-- [Rea & Transform Data](https://github.com/ritik8801/Time-Series-Forecasting-of-German-Climate-Data-using-Python/blob/main/Read%20%26%20Transform%20Data/read-and-transform-data.ipynb)
+- [Read & Transform Data](https://github.com/ritik8801/Time-Series-Forecasting-of-German-Climate-Data-using-Python/blob/main/Read%20%26%20Transform%20Data/read-and-transform-data.ipynb)
 - [Clean & Select Data](https://github.com/ritik8801/Time-Series-Forecasting-of-German-Climate-Data-using-Python/blob/main/Clean%20%26%20Select%20Data/clean-and-select-data.ipynb)
 - [Time Series Decomposition](https://github.com/ritik8801/Time-Series-Forecasting-of-German-Climate-Data-using-Python/blob/main/Time%20Series%20Forecasting/time-series-decomposition.ipynb)
 
