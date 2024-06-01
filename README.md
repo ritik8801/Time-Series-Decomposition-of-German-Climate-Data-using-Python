@@ -1,6 +1,6 @@
 # Time Series Decomposition of German Climate Data using Python
 
-The project decomposes daily and yearly climate data of Germany based on 1990-2021 data. 
+The project performs time series decomposition of daily and yearly climate data of Germany based on 1990-2021 data. 
 
 ## Table of contents
 - [Read & Transform Data](https://github.com/ritik8801/Time-Series-Forecasting-of-German-Climate-Data-using-Python/blob/main/Read%20%26%20Transform%20Data/read-and-transform-data.ipynb)
