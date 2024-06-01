@@ -24,7 +24,10 @@ In addition to the extracted temperature data, a notebook is provided which can 
 The following files are provided in this dataset:
 
 german_temperature_data_1990_2021.csv, containing the extracted original data (download and transformation, see this [notebook](https://github.com/ritik8801/Time-Series-Forecasting-of-German-Climate-Data-using-Python/blob/main/Read%20%26%20Transform%20Data/read-and-transform-data.ipynb)).
+
 german_temperature_data_1996_2021_from_selected_weather_stations.csv, containing a selection of the original data from 55 weather stations that have continuously provided a high amount of measurements from 1996-2021 (and thus no change in distribution over time). For the selection process, see this [notebook](https://github.com/ritik8801/Time-Series-Forecasting-of-German-Climate-Data-using-Python/blob/main/Clean%20%26%20Select%20Data/clean-and-select-data.ipynb).
-Additional information about the weather stations is available [here]((https://github.com/ritik8801/Time-Series-Forecasting-of-German-Climate-Data-using-Python/blob/main/zehn_min_tu_Beschreibung_Stationen.txt)).
+
+Additional information about the weather stations is available [here](https://github.com/ritik8801/Time-Series-Forecasting-of-German-Climate-Data-using-Python/blob/main/zehn_min_tu_Beschreibung_Stationen.txt).
+
 The official data set description is available [here](https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/10_minutes/air_temperature/DESCRIPTION_obsgermany_climate_10min_air_temperature_en.pdf).
 The terms of use are described by https://opendata.dwd.de/climate_environment/CDC/Nutzungsbedingungen_German.pdf and https://gdz.bkg.bund.de.
