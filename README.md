@@ -30,4 +30,5 @@ german_temperature_data_1996_2021_from_selected_weather_stations.csv, containing
 Additional information about the weather stations is available [here](https://github.com/ritik8801/Time-Series-Forecasting-of-German-Climate-Data-using-Python/blob/main/zehn_min_tu_Beschreibung_Stationen.txt).
 
 The official data set description is available [here](https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/10_minutes/air_temperature/DESCRIPTION_obsgermany_climate_10min_air_temperature_en.pdf).
-The terms of use are described by https://opendata.dwd.de/climate_environment/CDC/Nutzungsbedingungen_German.pdf and https://gdz.bkg.bund.de.
+
+The terms of use are described [here](https://opendata.dwd.de/climate_environment/CDC/Nutzungsbedingungen_German.pdf) and [here](https://gdz.bkg.bund.de).
